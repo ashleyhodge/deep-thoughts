@@ -23,5 +23,8 @@
   "homepage": "https://github.com/ashleyhodge/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.2.0"
+  },
+  "dependencies": {
+   
   }
 }
